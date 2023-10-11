@@ -1,7 +1,7 @@
 ## Esteban SABATIER
-### 17 yo
-### Strasbourg
-### Terminale au Lycée Jean-Sturm
+17 yo
+Strasbourg
+Terminale au Lycée Jean-Sturm
 
 <!--
 **Tueur-dombres/Tueur-dombres** is a  _special_  repository because its `README.md` (this file) appears on my GitHub profile.
